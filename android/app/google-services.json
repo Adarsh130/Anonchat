@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41883908141",
+    "project_id": "tunisnext-mirror",
+    "storage_bucket": "tunisnext-mirror.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41883908141:android:e9d2e66468cbbd0dcb20a4",
+        "android_client_info": {
+          "package_name": "com.anonchat.anonchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL2UqRt6nhYFsy37T5Cz4BKwsabJluz94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
